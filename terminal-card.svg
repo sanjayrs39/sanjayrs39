@@ -43,18 +43,18 @@
 <text x="313" y="60" fill="#fb923c" font-weight="bold">Sanjay Ramamuni</text>
 <text x="313" y="78" fill="#8b949e">──────────────────────────────</text>
 <text x="313" y="114" fill="#f87171" font-weight="bold">About Me</text>
-<text x="313" y="132" fill="#4ade80">2nd-year B.Tech, AI/ML @ NSRIT</text>
+<text x="313" y="132" fill="#4ade80">Final-year B.Tech, AI/ML @ NSRIT</text>
 <text x="313" y="150" fill="#4ade80">Developers Club Lead @ NSRIT</text>
 <text x="313" y="168" fill="#4ade80">Intern @ ZigmaNeural</text>
 <text x="313" y="186" fill="#4ade80">Curious by Nature. Engineer by Choice.</text>
 <text x="313" y="222" fill="#f87171" font-weight="bold">Highlights</text>
-<text x="313" y="240" fill="#4ade80">Buildathon: 1st - AI for Vizag 2026</text>
-<text x="313" y="258" fill="#4ade80">Buildathon: 1st - ZigmaNeural 2025</text>
+<text x="313" y="240" fill="#4ade80">Buildathon: 1st - AI for Vizag @RTIH 2026</text>
+<text x="313" y="258" fill="#4ade80">Buildathon: 1st - ZigmaNeural @A-HUB 2025</text>
 <text x="313" y="276" fill="#4ade80">Quantum ML: 93% acc. fraud detection</text>
 <text x="313" y="294" fill="#4ade80">ML Oncology: 92.73% chemo prediction</text>
 <text x="313" y="330" fill="#f87171" font-weight="bold">Stack</text>
-<text x="313" y="348" fill="#4ade80">Lang: Java, Python, C++</text>
-<text x="313" y="366" fill="#4ade80">AI/ML: scikit-learn, XGBoost, Qiskit</text>
-<text x="313" y="384" fill="#4ade80">Web: HTML, CSS, JSON</text>
+<text x="313" y="348" fill="#4ade80">Lang: Java, Python, C++, SQL</text>
+<text x="313" y="366" fill="#4ade80">AI/ML: scikit-learn, TensorFlow, Pandas, NumPy, XGBoost, Qiskit</text>
+<text x="313" y="384" fill="#4ade80">Web: HTML,CSS,JavaScript, React.JS, Node.JS, JSON</text>
 </g>
 </svg>
