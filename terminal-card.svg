@@ -54,7 +54,7 @@
 <text x="313" y="294" fill="#4ade80">ML Oncology: 92.73% chemo prediction</text>
 <text x="313" y="330" fill="#f87171" font-weight="bold">Stack</text>
 <text x="313" y="348" fill="#4ade80">Lang: Java, Python, C++, SQL</text>
-<text x="313" y="366" fill="#4ade80">AI/ML: scikit-learn, TensorFlow, Pandas, NumPy, XGBoost, Qiskit</text>
+<text x="313" y="366" fill="#4ade80">AI/ML: scikit-learn,TensorFlow,Pandas,NumPy,XGBoost,Qiskit</text>
 <text x="313" y="384" fill="#4ade80">Web: HTML,CSS,JavaScript, React.JS, Node.JS, JSON</text>
 </g>
 </svg>
