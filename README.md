@@ -9,9 +9,8 @@
 
 ## 🌐 Socials
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-sanjay--ramamuniii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-ramamuniii)
-[[Email](https://img.shields.io/badge/Email-saisanjayr39%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisanjayr39@gmail.com)
-[[GitHub](https://img.shields.io/badge/GitHub-sanjayrs39-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayrs39)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjay-ramamuniii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saisanjayr39@gmail.com) 
+
 
 ## 💻 Tech Stack
 
@@ -27,10 +26,9 @@
 [Developers Club Lead](https://img.shields.io/badge/👨‍💻_Developers_Club_Lead-NSRIT-4ade80?style=for-the-badge)
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sanjayrs39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=sanjayrs39&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrs39&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=sanjayrs39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sanjayrs39&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanjayrs39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
