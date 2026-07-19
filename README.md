@@ -39,12 +39,3 @@
 ![ALTA AI Builders Fellowship](https://img.shields.io/badge/🎓_ALTA_AI_Builders_Fellowship-Accepted-4ade80?style=for-the-badge)
 ![Developers Club Lead](https://img.shields.io/badge/👨‍💻_Developers_Club_Lead-NSRIT-4ade80?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sanjayrs39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=sanjayrs39&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrs39&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://komarev.com/ghpvc/?username=sanjayrs39&icon=0&color=fb923c&style=for-the-badge)](https://github.com/sanjayrs39)
